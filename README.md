@@ -1,4 +1,6 @@
 # iNET
+
+[![Join the chat at https://gitter.im/thelucyclub/iNET](https://badges.gitter.im/thelucyclub/iNET.svg)](https://gitter.im/thelucyclub/iNET?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The fully-functional iServer for PHP! (Based off @PocketMine , @ClearSky , and @iTXTech Genisys)
 ## Notes
 - You will need to provide your own PHP binary. Make sure it is PHP5.
